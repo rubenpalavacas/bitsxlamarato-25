@@ -1,5 +1,5 @@
 # NEST Endometrial Cancer Risk Calculator
-<img width="2437" height="1054" alt="imagen" src="https://github.com/user-attachments/assets/aaeb8823-e9c1-42ae-b390-c3392a3717b8" />
+<img width="2390" height="1036" alt="imagen" src="https://github.com/user-attachments/assets/d0b57cc1-7eb6-42ac-a77c-2d0b22c9824f" />
 
 ## How to run it?
 The best way to try out our solution is to download the .ipynb file, upload it to Google Colab or a similar platform, and upload the three files to the execution file-system (the .png images and the .csv dataset). Then, execute and everything is ready!
