@@ -1,5 +1,8 @@
 # NEST Endometrial Cancer Risk Calculator
 
+## How to run it?
+The best way to try out our solution is to download the .ipynb file, upload it to Google Colab or a similar platform, and upload the three files to the execution file-system (the .png images and the .csv dataset). Then, execute and everything is ready!
+
 ## Overview
 A clinical decision support tool that helps health specialists predict prognosis for endometrial cancer patients in the NSMP (p53 Wild-Type, POLE Non-Mutated) molecular subgroup using a Cox Proportional Hazards model.
 
